@@ -18,7 +18,7 @@
   <a href="people.md">
     <img src="https://img.shields.io/badge/People-Team-lightgrey?style=for-the-badge&logo=people" alt="People">
   </a><br>
-    <img width=500 src="https://raw.githubusercontent.com/timm/irl/refs/heads/main/etc/img/icon.png">
+    <img width=500 src="/etc/img/logo.png">
 </p>
 
   
