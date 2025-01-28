@@ -20,6 +20,11 @@ This repository documents the activities of the Irrational Research Lab. Below y
 5. [People](#team-members)
 
 ---
+> **Mission Statement ** 
+At the Irrational Research Lab, we boldly go where no thought has gone before.
+Our mission is to pursue curiosity-driven, outlandishly
+innovative research that disrupts conventions and challenges the
+boundaries of knowledge. Madness, you say? Absolutely
 
 ### Funding
 [Funding details](funding.md) include current and past projects.
